@@ -2,7 +2,25 @@
 
 19, third-year CS (AI & ML) at GRIET Hyderabad. I build agents, retrieval systems and real-time voice pipelines, and I care about proving they work: evals against baselines, tests, citations that get checked before an answer goes out.
 
-Looking for **AI engineering internships**. [abhilashreddy2429@gmail.com](mailto:abhilashreddy2429@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abhilashreddymanda) · [abhilash24.me](https://abhilash24.me)
+Looking for **AI engineering internships**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilashreddymanda)
+[![Portfolio](https://img.shields.io/badge/abhilash24.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhilash24.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashreddy2429@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=abhilash2429&style=for-the-badge&color=555555&label=PROFILE+VIEWS)
+
+#### Stack
+
+[![Stack](https://skillicons.dev/icons?i=py,ts,js,swift,c,fastapi,pytorch,sklearn,nodejs,nextjs,react,tailwind,postgres,mongodb,redis,docker,azure,cloudflare,vercel,git,linux&perline=11)](https://skillicons.dev)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)
 
 ---
 
@@ -46,7 +64,3 @@ Looking for **AI engineering internships**. [abhilashreddy2429@gmail.com](mailto
 - **Winner**, TCS AI Hackathon, TCS Technology Day (Jul 2026)
 - **Grand Finalist**, Meta x PyTorch x OpenEnv x Scaler Hackathon (May 2026)
 - **Finalist**, IIT Hyderabad Innovation Hackathon (Mar 2026)
-
-#### Stack
-
-Python, TypeScript, Swift · FastAPI, LangGraph, OpenAI Agents SDK, MCP · PyTorch, scikit-learn · FAISS, Qdrant, PostgreSQL · Docker, Redis, Celery
