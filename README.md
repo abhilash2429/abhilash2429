@@ -79,11 +79,6 @@ More at [abhilash24.me/blog](https://abhilash24.me/blog)
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash2429&layout=compact&hide=jupyter%20notebook,css,html&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&card_width=420">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilash2429&layout=compact&hide=jupyter%20notebook,css,html&hide_border=true&title_color=2f81f7&card_width=420">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhilash2429/abhilash2429/output/github-contribution-grid-snake-dark.svg">
   <img alt="Contribution graph snake" src="https://raw.githubusercontent.com/abhilash2429/abhilash2429/output/github-contribution-grid-snake.svg">
 </picture>
