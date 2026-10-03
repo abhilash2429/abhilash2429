@@ -17,3 +17,5 @@ jobs:
         with:
           feed_list: "https://abhilash24.me/feed.xml"
           max_post_count: 4
+          enable_keepalive: false
+          commit_message: "Update latest blog posts"
