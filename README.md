@@ -9,30 +9,30 @@ Looking for **AI engineering internships**. [abhilashreddy2429@gmail.com](mailto
 #### What I've built
 
 **[Macky](https://github.com/abhilash2429/Macky)** · voice assistant that lives in the macOS notch · [site](https://heymacky.vercel.app) · [demo](https://youtu.be/SIRyFt7ISx0)
-<sub>Swift · GPT-Realtime · Cloudflare Workers · Azure AI Foundry · MCP</sub>
+<br><sub>Swift · GPT-Realtime · Cloudflare Workers · Azure AI Foundry · MCP</sub>
 - Real-time push-to-talk pipeline: audio capture, streamed responses, speech output, interruption and reconnect handling.
 - Background job harness that runs sub-agents concurrently on long tasks, with live progress, cancellation, mid-task steering and restart after sleep.
 - Calendar, Reminders, screen capture and cursor control on macOS, plus Slack, Gmail and Spotify over MCP.
 
 **[M-RAG](https://github.com/abhilash2429/M-Rag-B)** · multimodal retrieval over hardware datasheets
-<sub>Python · FastAPI · FAISS · Azure OpenAI · MinerU · Next.js</sub>
+<br><sub>Python · FastAPI · FAISS · Azure OpenAI · MinerU · Next.js</sub>
 - 4-stage ingestion (parse, caption, embed, index) that makes figures and tables searchable. Resumable and cache-backed. 25 PDFs, 1,800+ pages.
 - 61.5% correct on figure/table questions against 0% for a text-only baseline on the same codepath, with no drop on prose questions.
 - FastAPI service streaming agent stages over SSE with page-level citations. 100 tests.
 
 **[DeepRead](https://github.com/abhilash2429/DeepRead)** · turns ML papers into implementation briefings · [live](https://deep-read-seven.vercel.app)
-<sub>FastAPI · LangGraph · Azure OpenAI · PostgreSQL · Next.js</sub>
+<br><sub>FastAPI · LangGraph · Azure OpenAI · PostgreSQL · Next.js</sub>
 - Multi-agent pipeline: PDF or arXiv ID in, six-section implementation briefing streamed out.
 - Cited Q&A on hybrid BM25 + embedding retrieval. Answers whose quotes don't match the source chunk get rejected and revised.
 - Adversarial audit that labels every claim in a briefing as supported, unsupported or contradicted, with page-linked evidence.
 
 **[Oversight Arena](https://github.com/abhilash2429/overSight_Arena)** + **[GitMergeEnv](https://github.com/abhilash2429/GitMergeEnv-)** · RL environments for LLM agents · [writeup](https://abhilash24.me/blog/blog-post)
-<sub>Python · OpenEnv · GRPO · Qwen2.5-3B</sub>
+<br><sub>Python · OpenEnv · GRPO · Qwen2.5-3B</sub>
 - GitMergeEnv: merge-conflict resolution env with three difficulty tiers, a deterministic grader and shaped rewards. Cleared Round 1 solo out of 52,000+.
 - Oversight Arena: five-stage coding pipeline (requirements, codegen, tests, security review, deploy) with hidden-flaw and colluding-pair modes. Trained Qwen2.5-3B against it with GRPO.
 
 **[Intelli-Credit](https://github.com/abhilash2429/Intelli-Credit)** · credit appraisal engine · [live](https://intelli-credit-kappa.vercel.app)
-<sub>FastAPI · Celery · Redis · PostgreSQL · Qdrant · XGBoost · PySpark</sub>
+<br><sub>FastAPI · Celery · Redis · PostgreSQL · Qdrant · XGBoost · PySpark</sub>
 
 ---
 
