@@ -71,7 +71,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Oversight Arena: Training an LLM to Catch the AI Failures That Look Like Successes](https://abhilash24.me/blog/blog-post)
-- [You stopped thinking robert , You're a Prompster Now](https://abhilash24.me/blog/you-stopped-thinking-robert)
+- [You stopped thinking robert , You&#39;re a Prompster Now](https://abhilash24.me/blog/you-stopped-thinking-robert)
 <!-- BLOG-POST-LIST:END -->
 
 More at [abhilash24.me/blog](https://abhilash24.me/blog)
