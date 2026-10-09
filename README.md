@@ -42,7 +42,7 @@
 - **[M-RAG](https://github.com/abhilash2429/M-Rag-B)**: RAG over hardware datasheets that reads the figures and tables too. It gets 61.5% of those questions right. Text-only got none.
 - **[DeepRead](https://github.com/abhilash2429/DeepRead)**: drop in an ML paper, get a plan for implementing it. The Q&A agent checks its own citations and rewrites answers that don't hold up. ([live](https://deep-read-seven.vercel.app))
 - **[Oversight Arena](https://github.com/abhilash2429/overSight_Arena)**: one model supervises five coding agents and learns to catch the failures that look like successes. I trained Qwen2.5-3B on it with GRPO. ([writeup](https://abhilash24.me/blog/blog-post))
-- **[GitMergeEnv](https://github.com/abhilash2429/GitMergeEnv-)**: an RL environment for git merge conflicts. Got me through Round 1 of the Meta x PyTorch hackathon solo, out of 52,000+.
+- **[GitMergeEnv](https://github.com/abhilash2429/GitMergeEnv-)**: an RL environment for git merge conflicts. Got me through Round 1 of the Meta x PyTorch hackathon.
 - **[Intelli-Credit](https://github.com/abhilash2429/Intelli-Credit)**: credit appraisal for Indian lenders. XGBoost scores the risk and Celery workers run the pipeline. ([live](https://intelli-credit-kappa.vercel.app))
 
 <table>
