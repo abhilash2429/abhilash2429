@@ -1,49 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3b5c,100:2f81f7&height=190&section=header&text=Abhilash%20Reddy&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Agents%20%C2%B7%20RAG%20%C2%B7%20Realtime%20Voice&descAlignY=58&descSize=17" width="100%" alt="Abhilash Reddy"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f3b5c,100:2f81f7&height=190&section=header&text=Abhilash%20Reddy&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20Engineer%20%C2%B7%20Agents%20%C2%B7%20Evals%20%C2%B7%20Backend&descAlignY=58&descSize=17" width="100%" alt="Abhilash Reddy"/>
 
-<a href="https://abhilash24.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+agents+that+check+their+own+work;Realtime+voice+pipelines+in+Swift;RAG+that+reads+figures+and+tables;Open+to+AI+engineering+internships" alt="Building agents, RAG and realtime voice"/></a>
+<a href="https://abhilash24.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=620&lines=Agents+that+check+their+own+work;Every+design+choice+backed+by+an+eval;Retrieval+with+citations+that+resolve;Open+to+full-time+remote+roles" alt="Agents, evals and backend"/></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilashreddymanda)
 [![Portfolio](https://img.shields.io/badge/abhilash24.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhilash24.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashreddy2429@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=abhilash2429&style=for-the-badge&color=555555&label=PROFILE+VIEWS)
 
 </div>
 
 ### About me
 
-- I'm 19, in my third year of CS (AI & ML) at GRIET Hyderabad.
-- I mostly build agents, retrieval and voice stuff. Python for most of it, Swift when it has to live on a Mac.
-- I have fixes open on [pipecat](https://github.com/pipecat-ai/pipecat/pull/6024) and [kornia](https://github.com/kornia/kornia/pull/5361) right now.
-- Looking for an **AI engineering internship**.
-- Away from the laptop: markets, books, movies.
+- I build AI products end to end: the agent, the eval that proves it works, and the backend that keeps it running.
+- I measure before I claim. My projects ship with held-out benchmarks, ablations and per-query cost.
+- Python for most of it, TypeScript for the web, Swift when it has to live on a Mac.
+- I contribute upstream to [pipecat](https://github.com/pipecat-ai/pipecat/pull/6024) and [kornia](https://github.com/kornia/kornia/pull/5361).
+- Open to **full-time remote** roles in applied AI and backend engineering.
 
 ### Stack
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=py,ts,js,swift,c,fastapi,pytorch,sklearn,nodejs,nextjs,react,tailwind,postgres,mongodb,redis,docker,azure,cloudflare,vercel,git,linux&perline=11)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=py,ts,swift,fastapi,pytorch,nodejs,nextjs,react,postgres,redis,docker,aws,azure,cloudflare,git,linux&perline=8)](https://skillicons.dev)
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square)
+![GRPO](https://img.shields.io/badge/RL-GRPO-555555?style=flat-square)
 
 </div>
 
 ### What I've built
 
-- **[Macky](https://github.com/abhilash2429/Macky)**: a voice assistant that lives in the Mac notch. Hold a key, say what you want, and it does it across your apps. ([site](https://heymacky.vercel.app), [demo](https://youtu.be/SIRyFt7ISx0))
-- **[M-RAG](https://github.com/abhilash2429/M-Rag-B)**: RAG over hardware datasheets that reads the figures and tables too. It gets 61.5% of those questions right. Text-only got none.
+- **[Bladerunner](https://github.com/abhilash2429/BladeRunner)**: a watchdog for agent fleets. It reads traces, pauses an agent that breaks policy, proves the violation with cited spans, patches the guardrail and confirms the fix, with no human in the loop. On 102 held-out traces it cuts false alarms from 40% to 5% (precision 0.39 to 0.90). On 858 AgentDojo runs from agents I didn't build, precision goes from 0.69 to 0.88.
+- **[Enterprise Search](https://github.com/abhilash2429/enterprise-search-rag)**: cited answers over 512K company documents. Scores 67.9 vs 47.7 for BM25 on a held-out test split I ran once (+20.1, 95% CI +15.7 to +24.5), at $0.0028 per question. Exposed as an MCP server.
+- **[Macky](https://github.com/abhilash2429/Macky)**: a voice assistant in the Mac notch. Hold a key, say what you want, and it acts across your apps, handing long jobs to a background agent. ([site](https://heymacky.vercel.app), [demo](https://youtu.be/SIRyFt7ISx0))
+- **[Oversight Arena](https://github.com/abhilash2429/overSight_Arena)**: one model supervises five coding agents and learns to catch failures that look like successes. Trained Qwen2.5-3B on it with GRPO. ([writeup](https://abhilash24.me/blog/blog-post))
 - **[DeepRead](https://github.com/abhilash2429/DeepRead)**: drop in an ML paper, get a plan for implementing it. The Q&A agent checks its own citations and rewrites answers that don't hold up. ([live](https://deep-read-seven.vercel.app))
-- **[Oversight Arena](https://github.com/abhilash2429/overSight_Arena)**: one model supervises five coding agents and learns to catch the failures that look like successes. I trained Qwen2.5-3B on it with GRPO. ([writeup](https://abhilash24.me/blog/blog-post))
-- **[GitMergeEnv](https://github.com/abhilash2429/GitMergeEnv-)**: an RL environment for git merge conflicts. Got me through Round 1 of the Meta x PyTorch hackathon.
-- **[Intelli-Credit](https://github.com/abhilash2429/Intelli-Credit)**: credit appraisal for Indian lenders. XGBoost scores the risk and Celery workers run the pipeline. ([live](https://intelli-credit-kappa.vercel.app))
+- **[AfterCare](https://github.com/abhilash2429/afterCare)**: photograph an Indian hospital discharge summary, get a picture-and-voice medicine schedule in your language. Built on AWS Lambda, Textract, Bedrock and DynamoDB. ([live](https://main.d2nozesb14q5me.amplifyapp.com))
+- **[M-RAG](https://github.com/abhilash2429/Multimodal-Rag)**: RAG over hardware datasheets that reads the figures and tables too. It gets 61.5% of those questions right. Text-only got none.
 
 <table>
 <tr>
